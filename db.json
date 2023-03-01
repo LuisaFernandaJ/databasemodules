@@ -1,5 +1,5 @@
 {
-    "Modules Marketing": [
+    "ModulesMarketing": [
         {
             "id": 1,
             "name": "¿Que es Marketing?",
@@ -13,7 +13,7 @@
             "route": "Module Two Marketing"
         }
     ],
-    "Modules Development": [
+    "ModulesDevelopment": [
         {
             "id": 1,
             "name": "¿Que es el desarrollo de sistemas?",
@@ -27,7 +27,7 @@
             "route": "Module Two Development"
         }
     ],
-    "Modules Accounting": [
+    "ModulesAccounting": [
         {
             "id": 1,
             "name": "¿Que es contabilidad?",
@@ -41,7 +41,7 @@
             "route": "Module Two Accounting"
         }
     ],
-    "Modules Administration": [
+    "ModulesAdministration": [
         {
             "id": 1,
             "name": "¿Que es administración?",
