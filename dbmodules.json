@@ -1,0 +1,59 @@
+{
+    "Modules Marketing": [
+        {
+            "id": 1,
+            "name": "¿Que es Marketing?",
+            "img": "https://img.freepik.com/foto-gratis/marketing-joven-mujer-negocios-bastante-linda-chaqueta-gris-oficina-molesta-conferencia_140725-165636.jpg?w=1800&t=st=1677631078~exp=1677631678~hmac=9c48b13dce71bde330d121576b6b0a4c9ab7f2dcbfc510a1aeace015d7f0939b",
+            "route": "Module Marketing"
+        },
+        {
+            "id": 2,
+            "name": "Herramientas del Marketing",
+            "img": "https://img.freepik.com/vector-gratis/fondo-elementos-marketing-estilo-plano_23-2147780556.jpg?w=1380&t=st=1677631213~exp=1677631813~hmac=90fbfb1beb4d9690e040d11721bb8964e75c408ee6ae08657b943736e1ed25e8",
+            "route": "Module Two Marketing"
+        }
+    ],
+    "Modules Development": [
+        {
+            "id": 1,
+            "name": "¿Que es el desarrollo de sistemas?",
+            "img": "https://img.freepik.com/foto-gratis/equipo-administradores-bases-datos-que-analizan-codigo-fuente-television-pantalla-mural-comparando-errores-usando-tableta-digital-sala-servidores-ocupada-dos-programadores-nube-depurando-algoritmo-oficina-innovacion-software_482257-43976.jpg?w=2000&t=st=1677632002~exp=1677632602~hmac=01fd521703a4192c74649acfae0f18902cc6b25044cfcf581e331ff06cad5ff6",
+            "route": "Module Development" 
+        },
+        {
+            "id": 2,
+            "name": "Lenguajes de programación",
+            "img": "https://img.freepik.com/vector-gratis/concepto-programadores-diseno-plano_23-2147846147.jpg?w=1380&t=st=1677632060~exp=1677632660~hmac=a6b79c8a7a17225165fef583317787bf330c89188e5dda56d369ab302097883f",
+            "route": "Module Two Development"
+        }
+    ],
+    "Modules Accounting": [
+        {
+            "id": 1,
+            "name": "¿Que es contabilidad?",
+            "img": "https://img.freepik.com/foto-gratis/mujer-mostrando-resultado-final-calculadora_144627-60786.jpg?w=1800&t=st=1677632132~exp=1677632732~hmac=05ac29b2855e08c17f01c163000466bf3f0c98fa5cb0b72f166cae053062631a",
+            "route": "Module Accounting" 
+        },
+        {
+            "id": 2,
+            "name": "Herramientas de la contabilidad",
+            "img": "https://img.freepik.com/vector-gratis/diseno-fondo-contabilidad_1300-169.jpg?w=1380&t=st=1677632395~exp=1677632995~hmac=42f0f4c0701b373bb028c39969d3cbd5a265e3264e89a78201168f0ea7630084",
+            "route": "Module Two Accounting"
+        }
+    ],
+    "Modules Administration": [
+        {
+            "id": 1,
+            "name": "¿Que es administración?",
+            "img": "https://img.freepik.com/vector-gratis/decisiones-negocios_1212-27.jpg?w=1380&t=st=1677632428~exp=1677633028~hmac=eaaa82ac7d8b84541c460cc978f94aa9afe74a2ae69e7f9749f7e266d5f14013",
+            "route": "Module Administration" 
+        },
+        {
+            "id": 2,
+            "name": "Historia de la administración",
+            "img": "https://img.freepik.com/vector-gratis/ilustracion-gestion-tiempo-esquema-isometrico_23-2148832142.jpg?w=1380&t=st=1677632863~exp=1677633463~hmac=4594323efe3868900aa92f0adbc11c48917a813d6d5b1015b20f00d4108a157e",
+            "route": "Module Two Administration"
+        }
+    ]
+
+}
